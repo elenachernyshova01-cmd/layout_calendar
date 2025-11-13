@@ -42,7 +42,7 @@ body {
     &:hover {
       cursor: pointer;
       background-color: $day-hover-color;
-      transform: translateY(-15px);
+      transform: translateY(-20px);
     }
 
     @for $i from 1 through 31 {
